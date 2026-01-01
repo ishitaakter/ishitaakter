@@ -1,7 +1,7 @@
 <h1>Hi there, I am Ishita 👋</h1>
 
 <h3>A dedicated web developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://lordicon.com/icons/wired/outline/2287-web-development-brackets)](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmN3dzZ3OWY0cHp2eWhyMG1uMDA2MzNiYnBtaXVudGN2Zm44eDB5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif)">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2ecf15a5a6b0879160644728c111ceb0b6dd57c03b2dc62cf237b48da507d269/68747470733a2f2f70726f322d6261722d73332d63646e2d6366352e6d79706f7274666f6c696f2e636f6d2f31376134376439653866343732376365356633653438383035623264386562322f36376362316134362d316430632d343566652d616233662d3532306534383032623162385f7277635f3078377838303078363236783830302e6769663f683d3365663338643262636563653736323033343535323538653064353835666539">
 <br>
 
 -  I’m currently working on Web Development Projects.
