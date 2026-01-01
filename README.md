@@ -1,4 +1,8 @@
-Hi there, I am Ishita 👋
+<h1>Hi there, I am Ishita 👋</h1>
+
+<h3>A dedicated web developer from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://lordicon.com/icons/wired/outline/2287-web-development-brackets)](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmN3dzZ3OWY0cHp2eWhyMG1uMDA2MzNiYnBtaXVudGN2Zm44eDB5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif)">
+<br>
 
 -  I’m currently working on Web Development Projects.
 -  I’m currently learning ...
